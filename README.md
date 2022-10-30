@@ -104,7 +104,7 @@
  
 > # Chapter 5. Classification 
 >> ## Classification: Basic Concepts
-- [x] สรุปเนื้อหา [Click Here!](https://github.com/WiratchawaKannika/DPDM65/blob/main/Note/06FPBasic.jpg)
+- [x] สรุปเนื้อหา [Click Here!](https://github.com/WiratchawaKannika/DPDM65/blob/main/Note/08ClassBasic.jpg)
    - [ ] Classification: Model construction from a set of training data
    - [ ] Decision tree induction, Bayes classification methods, linear classifier, ...
    - [ ] Gain Ratio: A Refined Measure for Attribute Selection
