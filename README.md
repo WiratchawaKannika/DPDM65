@@ -65,7 +65,7 @@
       - Simple Line Plots
       - Scatter plot 
       - การใช้ Font ไทยใน matplotlib (Google Colab)
-  - [ ] [3. additional content](https://github.com/WiratchawaKannika/DPDM65/blob/main/Data102_(Chapter2).ipynb)
+  - [ ] [3. Additional content](https://github.com/WiratchawaKannika/DPDM65/blob/main/Data102_(Chapter2).ipynb)
   
   
 > # Chapter 3. Data Preprocessing (การเตรียมข้อมูล)
